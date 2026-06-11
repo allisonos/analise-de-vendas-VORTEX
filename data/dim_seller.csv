@@ -1,23 +1,23 @@
 ﻿vendedor_id,nome_vendedor,regiao,anos_experiencia,equipe
-1,Luísa Mendonça,Sul,5.3,Comercial
-2,Ágatha Pastor,Sul,0.7,Comercial
-3,Dra. Ayla Pires,Sul,2.6,Comercial
-4,Laura Cunha,Sul,2.2,Comercial
-5,José Pinto,Sudeste,6.0,Comercial
-6,Joana Novais,Sudeste,5.6,Comercial
-7,Ana Beatriz Ribeiro,Sudeste,7.2,Comercial
-8,Luísa Fonseca,Sudeste,1.2,Comercial
-9,Hadassa Borges,Sudeste,3.7,Comercial
-10,Benicio Sampaio,Sudeste,0.7,Comercial
-11,Luara da Mota,Centro-Oeste,2.1,Comercial
-12,Raquel Montenegro,Centro-Oeste,4.3,Comercial
-13,Eloah Viana,Centro-Oeste,0.7,Comercial
-14,Catarina Barros,Centro-Oeste,2.0,Comercial
-15,Ravy Cavalcanti,Norte,5.4,Comercial
-16,Melissa Macedo,Norte,4.6,Comercial
-17,Sr. Miguel Silva,Norte,2.2,Comercial
-18,Melissa Nascimento,Norte,4.9,Comercial
-19,Dr. Pedro Freitas,Nordeste,6.6,Comercial
-20,Clarice Câmara,Nordeste,0.5,Comercial
-21,Alana Pires,Nordeste,6.5,Comercial
-22,Pedro Henrique Araújo,Nordeste,5.7,Comercial
+1,Dr. Diego Almeida,Sul,5.3,Comercial
+2,Benicio Azevedo,Sul,0.7,Comercial
+3,Isis Silveira,Sul,2.6,Comercial
+4,Melina Cirino,Sul,2.2,Comercial
+5,Dra. Lavínia Barbosa,Sudeste,6.0,Comercial
+6,Luiz Felipe Dias,Sudeste,5.6,Comercial
+7,Felipe da Cunha,Sudeste,7.2,Comercial
+8,Fernanda Melo,Sudeste,1.2,Comercial
+9,Cauã Nascimento,Sudeste,3.7,Comercial
+10,Dr. Theodoro da Rocha,Sudeste,0.7,Comercial
+11,Henrique Machado,Centro-Oeste,2.1,Comercial
+12,Davi Miguel Dias,Centro-Oeste,4.3,Comercial
+13,Mariah Gonçalves,Centro-Oeste,0.7,Comercial
+14,Srta. Maria Siqueira,Centro-Oeste,2.0,Comercial
+15,Daniel Câmara,Norte,5.4,Comercial
+16,Mateus Costela,Norte,4.6,Comercial
+17,Ana Clara Ramos,Norte,2.2,Comercial
+18,Dra. Heloisa da Rosa,Norte,4.9,Comercial
+19,Maria Fernanda Guerra,Nordeste,6.6,Comercial
+20,Sr. Kevin Câmara,Nordeste,0.5,Comercial
+21,Isis da Rosa,Nordeste,6.5,Comercial
+22,João Felipe Albuquerque,Nordeste,5.7,Comercial
