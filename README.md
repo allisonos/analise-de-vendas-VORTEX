@@ -148,15 +148,4 @@ vortex-sales-dashboard/
 | Dashboard Power BI | 🔄 Em construção |
 | Documentação visual (prints) | ⬜ Pendente |
 
----
 
-## 🗣️ Como Defender em Entrevista
-
-**Por que esse dataset?**
-Simula um problema real de distribuidora B2B. Receita vs meta é a pergunta que qualquer Head de Vendas faz toda semana — e exigiu modelar sazonalidade, crescimento anual e margem de forma realista, não apenas gerar números aleatórios.
-
-**Qual foi o maior desafio técnico?**
-Ligar `fact_sales` e `dim_metas` por chave composta (`regiao` + `mês`), já que a meta varia mês a mês — e corrigir o cálculo de margem para garantir que nenhum desconto gerasse lucro negativo de forma não intencional.
-
-**O que você faria com mais dados?**
-Cruzaria com dados de CRM — pipeline de oportunidades por vendedor — para antecipar o fechamento de mês e direcionar esforço comercial antes do mês terminar.
