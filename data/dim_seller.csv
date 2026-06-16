@@ -1,23 +1,23 @@
 ﻿vendedor_id,nome_vendedor,regiao,anos_experiencia,equipe
-1,Dr. Diego Almeida,Sul,5.3,Comercial
-2,Benicio Azevedo,Sul,0.7,Comercial
-3,Isis Silveira,Sul,2.6,Comercial
-4,Melina Cirino,Sul,2.2,Comercial
-5,Dra. Lavínia Barbosa,Sudeste,6.0,Comercial
-6,Luiz Felipe Dias,Sudeste,5.6,Comercial
-7,Felipe da Cunha,Sudeste,7.2,Comercial
-8,Fernanda Melo,Sudeste,1.2,Comercial
-9,Cauã Nascimento,Sudeste,3.7,Comercial
-10,Dr. Theodoro da Rocha,Sudeste,0.7,Comercial
-11,Henrique Machado,Centro-Oeste,2.1,Comercial
-12,Davi Miguel Dias,Centro-Oeste,4.3,Comercial
-13,Mariah Gonçalves,Centro-Oeste,0.7,Comercial
-14,Srta. Maria Siqueira,Centro-Oeste,2.0,Comercial
-15,Daniel Câmara,Norte,5.4,Comercial
-16,Mateus Costela,Norte,4.6,Comercial
-17,Ana Clara Ramos,Norte,2.2,Comercial
-18,Dra. Heloisa da Rosa,Norte,4.9,Comercial
-19,Maria Fernanda Guerra,Nordeste,6.6,Comercial
-20,Sr. Kevin Câmara,Nordeste,0.5,Comercial
-21,Isis da Rosa,Nordeste,6.5,Comercial
-22,João Felipe Albuquerque,Nordeste,5.7,Comercial
+1,Pedro Vieira,Sul,5.3,Comercial
+2,Vicente Rios,Sul,0.7,Comercial
+3,Vitor Gabriel Vasconcelos,Sul,2.6,Comercial
+4,Mateus da Cruz,Sul,2.2,Comercial
+5,Maria Fernanda da Conceição,Sudeste,6.0,Comercial
+6,Yago Mendes,Sudeste,5.6,Comercial
+7,Olivia Pastor,Sudeste,7.2,Comercial
+8,Sra. Olivia Câmara,Sudeste,1.2,Comercial
+9,Luna Moreira,Sudeste,3.7,Comercial
+10,Dr. Daniel Martins,Sudeste,0.7,Comercial
+11,Ana Luiza Cirino,Centro-Oeste,2.1,Comercial
+12,Lívia Camargo,Centro-Oeste,4.3,Comercial
+13,Gustavo Rios,Centro-Oeste,0.7,Comercial
+14,Oliver Peixoto,Centro-Oeste,2.0,Comercial
+15,Lara Caldeira,Norte,5.4,Comercial
+16,Raquel Freitas,Norte,4.6,Comercial
+17,Kaique Vasconcelos,Norte,2.2,Comercial
+18,Benicio Rodrigues,Norte,4.9,Comercial
+19,Arthur Gabriel Moreira,Nordeste,6.6,Comercial
+20,Arthur Machado,Nordeste,0.5,Comercial
+21,Sr. Antony Siqueira,Nordeste,6.5,Comercial
+22,Leonardo Costela,Nordeste,5.7,Comercial
